@@ -3,7 +3,7 @@
 
 #include<cstdio>
 #include<cstring>
-int const nMax = 10010;
+int const nMax = 1000010;
 
 int first[nMax],to[nMax],nxt[nMax],e;
 void addadge(int u,int v){
